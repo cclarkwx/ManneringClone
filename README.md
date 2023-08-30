@@ -1,9 +1,9 @@
 # portfolio
 
-Student at PPSC
+##Student at PPSC
 
 
-Education
+###Education
 AAS in CIS
 
 
