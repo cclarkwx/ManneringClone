@@ -20,7 +20,7 @@
 
 
 
-## Talks & Lectures
+## Skills
 - C
 
 ## Publications
