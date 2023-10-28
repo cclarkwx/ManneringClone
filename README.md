@@ -1,27 +1,30 @@
-# Julie Mannering
+# ChelseyClark
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Access, Excel, Weather Model Analysis
 
 ## Education
-- 				       		
-- M.S., Compiter Inoformation Systems	| 		        		
-- B.S., Business with CIS |
+	       		
+- H.S. Diploma
+- Community College of the Air Force Weather School
+- Currently Working on Computer Information Systems Degree
 
 ## Work Experience
-**Instructor
-- 
 
-**Data Science Consultant
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Weather Forecaster
+- Proficient in analyzing model and observed weather data to create precise weather forecasts for multiple locations around the world.
+- Successfully communicated with pilots in route over many modes of communication. Plentiful knowledge of radio communication.
+
+**Atmospheric Scientist
+- Conducted climate studies of a region by recording various weather events and provided said weather data to the National Weather Service and National Oceanic and Atmospheric Association.
 
 ## Projects
-### 
 
+- Website for a local crochet business, Late Night Knots.
+- Access Database to track inventory and sales for Late Night Knots.
+- Weather App 
 
 
 ## Skills
-- C
+- Public Speaking
+- Computer Troubleshooting
 
-## Publications
-1. 
