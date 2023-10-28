@@ -1,4 +1,4 @@
-# ChelseyClark
+# Chelsey Clark
 
 #### Technical Skills: Access, Excel, Weather Model Analysis
 
